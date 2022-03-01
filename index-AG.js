@@ -10,4 +10,4 @@ function changeVisibility() {
 }
 window.setTimeout(() => {
   changeVisibility();
-}, 200);
+}, 2000);
